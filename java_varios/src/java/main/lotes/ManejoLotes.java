@@ -1,4 +1,4 @@
-package java_lotes;
+package lotes;
 
 import java.util.ArrayList;
 import java.util.List;
